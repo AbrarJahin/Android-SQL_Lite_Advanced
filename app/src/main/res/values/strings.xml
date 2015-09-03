@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQL Lite Advanced</string>
+
+    <string name="hello_world">Please Check your Logcat !!!</string>
+</resources>
